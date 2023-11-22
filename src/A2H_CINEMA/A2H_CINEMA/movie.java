@@ -2,17 +2,17 @@ package A2H_CINEMA;
 import java.sql.*;
 public class movie
 {
-static String movienm;
-static String rating;
-static int screen;
-static String rdate;
-static Statement st;
-static Connection con;
-static ResultSet rs;
-static String sc;
-static int sht;
-static String sdt;
-static int ic;
+public static String movienm;
+public static String rating;
+public static int screen;
+public static String rdate;
+public static Statement st;
+public static Connection con;
+public static ResultSet rs;
+public static String sc;
+public static int sht;
+public static String sdt;
+public static int ic;
 public static void conn()
 {
   try

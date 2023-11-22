@@ -6,6 +6,16 @@ import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 import javax.swing.Timer;
 
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import javax.swing.ImageIcon;
+import javax.swing.JOptionPane;
+import javax.swing.Timer;
+
+import A2H_CINEMA.LOGIN_FRAME;
+import A2H_CINEMA.movie;
+import A2H_CINEMA.movie1;
+
 public class MOVIE_LIST extends javax.swing.JFrame {
 
     Timer t;
